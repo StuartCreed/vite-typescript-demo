@@ -2,10 +2,9 @@
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",
+    "strict": true,
+    "noEmit": true,
     "moduleResolution": "node",
-    "importHelpers": true,
-    "isolatedModules": true,
-    "noEmit": true
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]

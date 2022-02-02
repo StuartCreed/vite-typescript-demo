@@ -7,13 +7,13 @@ interface TestInterface {
     width?: number
 }
 
-const test = {
+const test: TestInterface = {
     color: 'blue',
     hello: 'test'
 }
 
-function testFunction(test: number): string {
-    return 4
+function testFunction(test: TestInterface): number {
+    return test;
 }
 
 testFunction(test)
