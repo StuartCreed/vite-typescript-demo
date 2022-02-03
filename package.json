@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.4",
+    "typescript-tslint-plugin": "^1.0.1",
     "vite": "^1.0.0-rc.13",
     "vue-tsc": "^0.31.1"
   }

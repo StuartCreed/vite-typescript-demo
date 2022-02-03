@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c5ca14f-13a6-4754-96d8-4acad89a69f5" name="Default Changelist" comment="Adds some more tsconfig.json edits">
+    <list default="true" id="0c5ca14f-13a6-4754-96d8-4acad89a69f5" name="Default Changelist" comment="Adds vue file typescript checking">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +31,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main.ts" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
   <component name="ProjectId" id="24ZL2JwwZanHtJIpFhC0jD9OgCu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -59,7 +59,7 @@
       <workItem from="1643836771468" duration="366000" />
       <workItem from="1643837164381" duration="301000" />
       <workItem from="1643837480534" duration="103000" />
-      <workItem from="1643837595703" duration="95000" />
+      <workItem from="1643837595703" duration="1074000" />
     </task>
     <task id="LOCAL-00001" summary="Adds some more tsconfig.json edits">
       <created>1643837344732</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643837344732</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adds vue file typescript checking">
+      <created>1643837726224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643837726224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adds some more tsconfig.json edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds some more tsconfig.json edits" />
+    <MESSAGE value="Adds vue file typescript checking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds vue file typescript checking" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

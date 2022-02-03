@@ -14,6 +14,11 @@ export default {
     return {
       count: 0
     }
-  }
+  },
+    methods: {
+      test() {
+          return 'hello'
+      }
+    }
 }
 </script>
